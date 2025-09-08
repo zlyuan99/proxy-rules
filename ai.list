@@ -1,0 +1,80 @@
+# NAME: AI
+# AUTHOR: custom (参考 blackmatrix7 风格)
+# UPDATED: 2025-09-08 17:30:00
+# DOMAIN: 22
+# DOMAIN-KEYWORD: 3
+# DOMAIN-SUFFIX: 26
+# IP-ASN: 2
+# IP-CIDR: 2
+# TOTAL: 55
+
+# ===== OpenAI / ChatGPT =====
+DOMAIN,chat.openai.com
+DOMAIN,api.openai.com
+DOMAIN,cdn.openai.com
+DOMAIN,auth0.openai.com
+DOMAIN,chat.openai.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,openaicom.imgix.net
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,openai.azure.com
+DOMAIN-KEYWORD,openai
+
+# ===== Google Gemini / Bard =====
+DOMAIN,gemini.google.com
+DOMAIN,aistudio.google.com
+DOMAIN,bard.google.com
+DOMAIN,ai.google.dev
+DOMAIN-SUFFIX,ai.googleusercontent.com
+DOMAIN-SUFFIX,withgoogle.com
+DOMAIN-KEYWORD,gemini
+
+# ===== XAI / Grok =====
+DOMAIN,x.ai
+DOMAIN,grok.x.ai
+DOMAIN-SUFFIX,x.ai
+
+# ===== Microsoft Copilot =====
+DOMAIN,copilot.microsoft.com
+DOMAIN,copilot.office.com
+DOMAIN,copilot.microsoft365.com
+DOMAIN,copilot.github.com
+DOMAIN,gateway.bingviz.microsoft.net
+DOMAIN,gateway.bingviz.microsoftapp.net
+DOMAIN-SUFFIX,microsoftcopilot.com
+DOMAIN-SUFFIX,microsoftapp.net
+DOMAIN-SUFFIX,bing.com
+DOMAIN-KEYWORD,copilot
+
+# ===== Perplexity AI =====
+DOMAIN,perplexity.ai
+DOMAIN,www.perplexity.ai
+DOMAIN,api.perplexity.ai
+DOMAIN,labs.perplexity.ai
+DOMAIN-SUFFIX,perplexity.ai
+
+# ===== DiA Browser =====
+DOMAIN,diabrowser.com
+DOMAIN,www.diabrowser.com
+DOMAIN,api.diabrowser.com
+DOMAIN-SUFFIX,diabrowser.com
+
+# ===== 公共依赖（常见AI服务依赖库） =====
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,datadoghq.com
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,cloudflareinsights.com
+
+# ===== IP 匹配 (可选，来自部分AI服务CDN/节点) =====
+IP-CIDR,24.199.123.28/32,no-resolve
+IP-CIDR,64.23.132.171/32,no-resolve
+IP-ASN,14061,no-resolve
+IP-ASN,20473,no-resolve
+
