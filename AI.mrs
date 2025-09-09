@@ -1,0 +1,40 @@
+payload:
+  # --- OpenAI / ChatGPT ---
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,chat.openai.com
+  - DOMAIN-SUFFIX,auth0.openai.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+
+  # --- Perplexity ---
+  - DOMAIN-SUFFIX,perplexity.ai
+
+  # --- Anthropic / Claude ---
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
+
+  # --- Google AI / Gemini ---
+  - DOMAIN-SUFFIX,deepmind.com
+  - DOMAIN-SUFFIX,google.ai
+  - DOMAIN-SUFFIX,gemini.google.com
+
+  # --- Meta AI ---
+  - DOMAIN-SUFFIX,meta.ai
+
+  # --- xAI / Grok ---
+  - DOMAIN-SUFFIX,x.ai
+
+  # --- DeepSeek ---
+  - DOMAIN-SUFFIX,deepseek.com
+  - DOMAIN-SUFFIX,deepseek.ai
+
+  # --- Mistral ---
+  - DOMAIN-SUFFIX,mistral.ai
+
+  # --- HuggingFace ---
+  - DOMAIN-SUFFIX,huggingface.co
+
+  # --- Stability AI ---
+  - DOMAIN-SUFFIX,stability.ai
+
+  # --- Cohere ---
+  - DOMAIN-SUFFIX,cohere.ai
