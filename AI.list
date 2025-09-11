@@ -52,8 +52,11 @@ DOMAIN-KEYWORD,copilot
 DOMAIN,perplexity.ai
 DOMAIN,www.perplexity.ai
 DOMAIN,api.perplexity.ai
-DOMAIN,labs.perplexity.ai
 DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN-SUFFIX,perplexity.com
+DOMAIN-SUFFIX,perplexity-ai.org
+DOMAIN-SUFFIX,os.ai
 
 # ===== DiA Browser =====
 DOMAIN,diabrowser.com
